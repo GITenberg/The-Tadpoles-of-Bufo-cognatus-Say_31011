@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34958
     wikipedia: http://en.wikipedia.org/wiki/Hobart_Muir_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31011#The-Tadpoles-of-Bufo-cognatus-Say
 gutenberg_bookshelf:
 - Animals-Wild-Reptiles and Amphibians
 - Animal
