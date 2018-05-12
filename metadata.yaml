@@ -1,0 +1,35 @@
+_repo: The-Tadpoles-of-Bufo-cognatus-Say_31011
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Hobart M. (Hobart Muir)
+    aliases:
+    - Stouffer, Frederick William
+    - Smith, Hobart Muir
+    birthdate: 1912
+    deathdate: 2013
+    gutenberg_agent_id: '34958'
+    url: http://www.gutenberg.org/2009/agents/34958
+    wikipedia: http://en.wikipedia.org/wiki/Hobart_Muir_Smith
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2010-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31011'
+  lccn: '46027442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Plains toad -- Larvae'
+- !lcc 'QH'
+- !lcsh 'Tadpoles'
+title: The Tadpoles of Bufo cognatus Say
+url: http://www.gutenberg.org/ebooks/31011
